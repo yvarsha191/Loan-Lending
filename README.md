@@ -1,7 +1,9 @@
 # Loan-Lending
 
-In this project, we're going to be exploring some real-world data
-that was publicly available from Lending Club. Lending Club connects
+In this project, we're going to explore some real-world data
+that was publicly available from Lending Club. 
+
+Lending Club connects
 people who need money known as borrowers with people who have money known as investors.
 And hopefully, as an investor, you're going to want to invest in people who show a profile of having a
 high probability of paying you back.
